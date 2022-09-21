@@ -21,6 +21,7 @@ Bagian laporan ini mencakup:
 
 Menjelaskan pernyataan masalah latar belakang:
 - Bagaimana pH, suhu, rasa, bau, lemak, kekeruhan dan warna dapat mempengaruhi kualitas susu?
+- Bagaimana kualitas susu dapat diprediksi berdasarkan pH, suhu, rasa, bau, lemak, kekeruhan dan warna?
 ### Goals
 
 Menjelaskan tujuan dari pernyataan masalah:
