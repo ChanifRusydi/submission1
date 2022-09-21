@@ -1,5 +1,5 @@
-```
-# Laporan Proyek Machine Learning - Nama Anda
+
+# Laporan Proyek Machine Learning - Muchammad 'Irfan Chanif Rusydi
 
 ## Domain Proyek
 
@@ -41,14 +41,18 @@ Semua poin di atas harus diuraikan dengan jelas. Anda bebas menuliskan berapa pe
     - Solusi yang diberikan harus dapat terukur dengan metrik evaluasi.
 
 ## Data Understanding
+Dataset yang digunakan kali ini adalah Milk Quality
+
 Paragraf awal bagian ini menjelaskan informasi mengenai data yang Anda gunakan dalam proyek. Sertakan juga sumber atau tautan untuk mengunduh dataset. Contoh: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Restaurant+%26+consumer+data).
 
 Selanjutnya uraikanlah seluruh variabel atau fitur pada data. Sebagai contoh:  
 
 ### Variabel-variabel pada Restaurant UCI dataset adalah sebagai berikut:
-- accepts : merupakan jenis pembayaran yang diterima pada restoran tertentu.
-- cuisine : merupakan jenis masakan yang disajikan pada restoran.
-- dst
+- pH : Kolom ini mendefinisikan pH susu yang berkisar antara 3 hingga 9,5 maks: 6,25 hingga 6,90
+- Temperature : Kolom ini mendefinisikan suhu susu yang berkisar dari 34 C sampai 90'C max : 34'C sampai 45.20'C
+- Taste : Kolom ini mendefinisikan Rasa susu yang merupakan data kategori 0 (Buruk) atau 1 (Baik) max : 1 (Baik)
+- Odor : Kolom ini mendefinisikan bau susu yang merupakan data kategori 0 (Buruk) atau 1 (Baik) max : 1 (Baik)
+- Fat : Kolom ini mendefinisikan lemak susu yang berkisar dari 
 
 **Rubrik/Kriteria Tambahan (Opsional)**:
 - Melakukan beberapa tahapan yang diperlukan untuk memahami data, contohnya teknik visualisasi data atau exploratory data analysis.
@@ -61,6 +65,7 @@ Pada bagian ini Anda menerapkan dan menyebutkan teknik data preparation yang dil
 - Menjelaskan alasan mengapa diperlukan tahapan data preparation tersebut.
 
 ## Modeling
+
 Tahapan ini membahas mengenai model machine learning yang digunakan untuk menyelesaikan permasalahan. Anda perlu menjelaskan tahapan dan parameter yang digunakan pada proses pemodelan.
 
 **Rubrik/Kriteria Tambahan (Opsional)**: 
