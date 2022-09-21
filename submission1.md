@@ -48,8 +48,8 @@ Dataset yang digunakan kali ini adalah Milk Quality Prediction Dataset. Selengka
 - Odor : Kolom ini mendefinisikan bau susu yang merupakan data kategori 0 (Buruk) atau 1 (Baik) max : 1 (Baik)
 - Fat : Kolom ini mendefinisikan Bau susu yang merupakan data kategorikal 0 (Rendah) atau 1 (Tinggi) maks : 1 (Tinggi)
 - Turbidity : Kolom ini mendefinisikan Kekeruhan susu yang merupakan data kategorikal 0 (Rendah) atau 1 (Tinggi) maks : 1 (Tinggi)
-- Colour : 
-
+- Colour : Kolom ini mendefinisikan Warna susu yang berkisar dari 240 hingga 255 maks : 255
+- Grade : Kolom ini mendefinisikan Grade (Target) susu yang merupakan data kategorikal Dimana Rendah (Buruk) atau Sedang (Sedang) Tinggi (Baik)
 
 **Rubrik/Kriteria Tambahan (Opsional)**:
 - Melakukan beberapa tahapan yang diperlukan untuk memahami data, contohnya teknik visualisasi data atau exploratory data analysis.
