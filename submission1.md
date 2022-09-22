@@ -2,7 +2,7 @@
 # Laporan Proyek Machine Learning - Muchammad 'Irfan Chanif Rusydi
 
 ## Domain Proyek
-Machine Learning dapat digunakan dalam berbagai bidang salah satunya peternakan. Kali ini industri susu menjadi fokus. Dengan menggunakan Machine Learning, industri susu dapat memprediksi atau mengkategorikan susu yang baik dan buruk. Dengan demikian, industri susu dapat mengurangi kerugian yang disebabkan oleh susu yang buruk.
+Machine Learning dapat digunakan dalam berbagai bidang salah satunya peternakan. Kali ini industri susu menjadi fokus. Dengan menggunakan Machine Learning, industri susu dapat memprediksi atau mengkategorikan susu yang baik dan buruk. Dengan demikian, industri susu dapat mengurangi kerugian yang disebabkan oleh susu yang buruk. 
 
 Pada bagian ini, kamu perlu menuliskan latar belakang yang relevan dengan proyek yang diangkat.
 
@@ -43,7 +43,7 @@ Semua poin di atas harus diuraikan dengan jelas. Anda bebas menuliskan berapa pe
 Dataset yang digunakan kali ini adalah Milk Quality Prediction Dataset. Selengkapnya dapat lihat di [sini](https://www.kaggle.com/datasets/cpluzshrijayan/milkquality).
  
 
-### Variabel-variabel pada Restaurant UCI dataset adalah sebagai berikut:
+### Variabel-variabel pada Milk Quality Prediction Dataset adalah sebagai berikut:
 - pH : Kolom ini mendefinisikan pH susu yang berkisar antara 3 hingga 9,5 maks: 6,25 hingga 6,90
 - Temperature : Kolom ini mendefinisikan suhu susu yang berkisar dari 34 C sampai 90'C max : 34'C sampai 45.20'C
 - Taste : Kolom ini mendefinisikan Rasa susu yang merupakan data kategori 0 (Buruk) atau 1 (Baik) max : 1 (Baik)
