@@ -2,6 +2,7 @@
 # Laporan Proyek Machine Learning - Muchammad 'Irfan Chanif Rusydi
 
 ## Domain Proyek
+Machine Learning dapat digunakan dalam bidang peternakan. Kali ini industri susu menjadi fokus. Dengan menggunakan Machine Learning, industri susu dapat memprediksi atau mengkategorikan susu yang baik dan buruk. Dengan demikian, industri susu dapat mengurangi kerugian yang disebabkan oleh susu yang buruk.
 
 Pada bagian ini, kamu perlu menuliskan latar belakang yang relevan dengan proyek yang diangkat.
 
