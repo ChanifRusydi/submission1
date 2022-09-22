@@ -26,8 +26,8 @@ Menjelaskan pernyataan masalah latar belakang:
 ### Goals
 
 Menjelaskan tujuan dari pernyataan masalah:
-- Jawaban pernyataan masalah 1
-- Jawaban pernyataan masalah 2
+- Mengetahui pengaruh pH, suhu, rasa, bau, lemak, kekeruhan dan warna terhadap kualitas susu
+- Memprediksi atau mengklasifikasikan kualitas susu berdasarkan pH, suhu, rasa, bau, lemak, kekeruhan dan warna
 - Jawaban pernyataan masalah n
 
 Semua poin di atas harus diuraikan dengan jelas. Anda bebas menuliskan berapa pernyataan masalah dan juga goals yang diinginkan.
