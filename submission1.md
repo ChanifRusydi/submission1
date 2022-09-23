@@ -57,25 +57,19 @@ Dataset yang digunakan kali ini adalah Milk Quality Prediction Dataset. Selengka
 - Melakukan beberapa tahapan yang diperlukan untuk memahami data, contohnya teknik visualisasi data atau exploratory data analysis.
 
 ## Data Preparation
-Pada bagian ini Anda menerapkan dan menyebutkan teknik data preparation yang dilakukan. Teknik yang digunakan pada notebook dan laporan harus berurutan.
-
-**Rubrik/Kriteria Tambahan (Opsional)**: 
-- Menjelaskan proses data preparation yang dilakukan
-- Menjelaskan alasan mengapa diperlukan tahapan data preparation tersebut.
+Memisahkan data variabel kolom grade sebagai target dan sisanya sebagai variabel independen. Kemudian membagi data menjadi data training dan data testing dengan rasio 80:20.
+Kolom grade diubah menjadi data kategorikal dengan nilai 0 (Buruk), 1 (Sedang), 2 (Baik).
 
 ## Modeling
 
+
 Tahapan ini membahas mengenai model machine learning yang digunakan untuk menyelesaikan permasalahan. Anda perlu menjelaskan tahapan dan parameter yang digunakan pada proses pemodelan.
 
-**Rubrik/Kriteria Tambahan (Opsional)**: 
-- Menjelaskan kelebihan dan kekurangan dari setiap algoritma yang digunakan.
-- Jika menggunakan satu algoritma pada solution statement, lakukan proses improvement terhadap model dengan hyperparameter tuning. **Jelaskan proses improvement yang dilakukan**.
-- Jika menggunakan dua atau lebih algoritma pada solution statement, maka pilih model terbaik sebagai solusi. **Jelaskan mengapa memilih model tersebut sebagai model terbaik**.
+
 
 ## Evaluation
 Metrik evaluasi yang digunakan adalah akurasi, presisi, homogeneity score, dan rand score. Metrik akurasi adalah metrik yang digunakan untuk mengukur seberapa akurat model dalam memprediksi kelas target. Metrik presisi adalah metrik yang digunakan untuk mengukur seberapa akurat model dalam memprediksi kelas positif. Metrik homogeneity score adalah metrik yang digunakan untuk mengukur seberapa homogen cluster yang dibentuk oleh model. Metrik rand score adalah metrik yang digunakan untuk mengukur seberapa baik model dalam memisahkan data.
 
-Pada bagian ini anda perlu menyebutkan metrik evaluasi yang digunakan. Lalu anda perlu menjelaskan hasil proyek berdasarkan metrik evaluasi yang digunakan.
 
 Hasil model Random Forest Classifier dan Decision Tree Classifier adalah sebagai berikut:
 Random Forest Classifier :
@@ -90,16 +84,6 @@ Decision Tree Classifier :
 - Homogeneity Score : 0.98
 - Rand Score : 0.98
 
-
-
-Sebagai contoh, Anda memiih kasus klasifikasi dan menggunakan metrik **akurasi, precision, recall, dan F1 score**. Jelaskan mengenai beberapa hal berikut:
-- Penjelasan mengenai metrik yang digunakan
-- Menjelaskan hasil proyek berdasarkan metrik evaluasi
-
-Ingatlah, metrik evaluasi yang digunakan harus sesuai dengan konteks data, problem statement, dan solusi yang diinginkan.
-
-**Rubrik/Kriteria Tambahan (Opsional)**: 
-- Menjelaskan formula metrik dan bagaimana metrik tersebut bekerja.
 
 **---Ini adalah bagian akhir laporan---**
 
