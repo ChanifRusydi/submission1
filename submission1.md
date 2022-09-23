@@ -84,6 +84,13 @@ Random Forest Classifier :
 - Homogeneity Score : 0.98
 - Rand Score : 0.98
 
+Decision Tree Classifier :
+- Akurasi : 0.98
+- Presisi : 0.98
+- Homogeneity Score : 0.98
+- Rand Score : 0.98
+
+
 
 Sebagai contoh, Anda memiih kasus klasifikasi dan menggunakan metrik **akurasi, precision, recall, dan F1 score**. Jelaskan mengenai beberapa hal berikut:
 - Penjelasan mengenai metrik yang digunakan
