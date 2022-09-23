@@ -73,7 +73,9 @@ Tahapan ini membahas mengenai model machine learning yang digunakan untuk menyel
 - Jika menggunakan dua atau lebih algoritma pada solution statement, maka pilih model terbaik sebagai solusi. **Jelaskan mengapa memilih model tersebut sebagai model terbaik**.
 
 ## Evaluation
+Metrik evaluasi yang digunakan adalah akurasi, presisi, homogeneity score, dan rand score. Metrik akurasi adalah metrik yang digunakan untuk mengukur seberapa akurat model dalam memprediksi kelas target. Metrik presisi adalah metrik yang digunakan untuk mengukur seberapa akurat model dalam memprediksi kelas positif. Metrik homogeneity score adalah metrik yang digunakan untuk mengukur seberapa homogen cluster yang dibentuk oleh model. Metrik rand score adalah metrik yang digunakan untuk mengukur seberapa baik model dalam memisahkan data.
 Pada bagian ini anda perlu menyebutkan metrik evaluasi yang digunakan. Lalu anda perlu menjelaskan hasil proyek berdasarkan metrik evaluasi yang digunakan.
+
 
 Sebagai contoh, Anda memiih kasus klasifikasi dan menggunakan metrik **akurasi, precision, recall, dan F1 score**. Jelaskan mengenai beberapa hal berikut:
 - Penjelasan mengenai metrik yang digunakan
