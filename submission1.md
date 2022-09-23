@@ -74,7 +74,15 @@ Tahapan ini membahas mengenai model machine learning yang digunakan untuk menyel
 
 ## Evaluation
 Metrik evaluasi yang digunakan adalah akurasi, presisi, homogeneity score, dan rand score. Metrik akurasi adalah metrik yang digunakan untuk mengukur seberapa akurat model dalam memprediksi kelas target. Metrik presisi adalah metrik yang digunakan untuk mengukur seberapa akurat model dalam memprediksi kelas positif. Metrik homogeneity score adalah metrik yang digunakan untuk mengukur seberapa homogen cluster yang dibentuk oleh model. Metrik rand score adalah metrik yang digunakan untuk mengukur seberapa baik model dalam memisahkan data.
+
 Pada bagian ini anda perlu menyebutkan metrik evaluasi yang digunakan. Lalu anda perlu menjelaskan hasil proyek berdasarkan metrik evaluasi yang digunakan.
+
+Hasil model Random Forest Classifier dan Decision Tree Classifier adalah sebagai berikut:
+Random Forest Classifier :
+- Akurasi : 0.98
+- Presisi : 0.98
+- Homogeneity Score : 0.98
+- Rand Score : 0.98
 
 
 Sebagai contoh, Anda memiih kasus klasifikasi dan menggunakan metrik **akurasi, precision, recall, dan F1 score**. Jelaskan mengenai beberapa hal berikut:
