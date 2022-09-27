@@ -61,7 +61,11 @@ Memisahkan data variabel kolom grade sebagai target dan sisanya sebagai variabel
 Kolom grade diubah menjadi data kategorikal dengan nilai 0 (Buruk), 1 (Sedang), 2 (Baik).
 
 ## Modeling
+Pada Proyek kali ini, saya menggunakan 2 algoritma yaitu Decision Tree dan Random Forest. Kemudian saya melakukan hyperparameter tuning pada Random Forest dengan menggunakan GridSearchCV.
+Parameter yang digunakan untuk algoritma Random Forest adalah sebagai berikut:
+- n_estimators : Jumlah pohon yang akan dibuat
 
+Pada dasarnya saya menggunakan nilai parameter default
 
 Tahapan ini membahas mengenai model machine learning yang digunakan untuk menyelesaikan permasalahan. Anda perlu menjelaskan tahapan dan parameter yang digunakan pada proses pemodelan.
 
